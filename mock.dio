@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="is-97eqnPKfckBVYcZRJ" name="管理者ログイン">
-        <mxGraphModel dx="474" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFCC" math="0" shadow="0">
+        <mxGraphModel dx="1242" dy="367" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFCC" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -65,39 +65,39 @@
         </mxGraphModel>
     </diagram>
     <diagram id="jcyzG5aiHMN33TF2-tWh" name="管理者ページ">
-        <mxGraphModel dx="1336" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFCC" math="0" shadow="0">
+        <mxGraphModel dx="1242" dy="367" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFCC" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="J4m1nUpnXeD98RypSmlU-12" value="" style="rounded=0;html=1;labelBackgroundColor=none;labelBorderColor=#FFFFFF;fontFamily=Helvetica;fontSize=20;whiteSpace=wrap;fillColor=#9AC7C9;strokeColor=none;" vertex="1" parent="1">
+                <mxCell id="J4m1nUpnXeD98RypSmlU-12" value="" style="rounded=0;html=1;labelBackgroundColor=none;labelBorderColor=#FFFFFF;fontFamily=Helvetica;fontSize=20;whiteSpace=wrap;fillColor=#9AC7C9;strokeColor=none;" parent="1" vertex="1">
                     <mxGeometry width="1168" height="92" as="geometry"/>
                 </mxCell>
-                <mxCell id="J4m1nUpnXeD98RypSmlU-13" value="交通費申請" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Helvetica;fontSize=45;fontStyle=1;labelBorderColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+                <mxCell id="J4m1nUpnXeD98RypSmlU-13" value="交通費申請" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Helvetica;fontSize=45;fontStyle=1;labelBorderColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
                     <mxGeometry x="14" y="13" width="243" height="66" as="geometry"/>
                 </mxCell>
-                <mxCell id="YIJuaUXefAF7Pktz6SaF-1" value="&lt;font color=&quot;#454545&quot; style=&quot;font-size: 18px;&quot;&gt;ログアウト&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#B3B3B3;fontSize=16;" vertex="1" parent="1">
+                <mxCell id="YIJuaUXefAF7Pktz6SaF-1" value="&lt;font color=&quot;#454545&quot; style=&quot;font-size: 18px;&quot;&gt;ログアウト&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#B3B3B3;fontSize=16;" parent="1" vertex="1">
                     <mxGeometry x="1010" y="26" width="110" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="q-WbGLMSo0elJoH83OY0-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;交通費申請一覧&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;fontColor=#000000;" vertex="1" parent="1">
+                <mxCell id="q-WbGLMSo0elJoH83OY0-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;交通費申請一覧&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;fontColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="45" y="150" width="190" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="q-WbGLMSo0elJoH83OY0-2" value="社員1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontColor=#000000;fontStyle=4" vertex="1" parent="1">
+                <mxCell id="q-WbGLMSo0elJoH83OY0-2" value="社員1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontColor=#000000;fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="80" y="200" width="80" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="q-WbGLMSo0elJoH83OY0-3" value="社員2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontColor=#000000;fontStyle=4" vertex="1" parent="1">
+                <mxCell id="q-WbGLMSo0elJoH83OY0-3" value="社員2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontColor=#000000;fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="82" y="240" width="80" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="q-WbGLMSo0elJoH83OY0-4" value="社員3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontColor=#000000;fontStyle=4" vertex="1" parent="1">
+                <mxCell id="q-WbGLMSo0elJoH83OY0-4" value="社員3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontColor=#000000;fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="82" y="280" width="80" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="q-WbGLMSo0elJoH83OY0-5" value="社員4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontColor=#000000;fontStyle=4" vertex="1" parent="1">
+                <mxCell id="q-WbGLMSo0elJoH83OY0-5" value="社員4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontColor=#000000;fontStyle=4" parent="1" vertex="1">
                     <mxGeometry x="82" y="320" width="80" height="40" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
     <diagram id="3Ftpnsue0mK80tgvBLD9" name="新規登録画面">
-        <mxGraphModel dx="474" dy="563" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFCC" math="0" shadow="1">
+        <mxGraphModel dx="638" dy="393" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFCC" math="0" shadow="1">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -183,7 +183,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="LOYmyGVF4Wbl7JYf4MzZ" name="ログイン画面">
-        <mxGraphModel dx="474" dy="563" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFCC" math="0" shadow="1">
+        <mxGraphModel dx="638" dy="393" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFCC" math="0" shadow="1">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -253,7 +253,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="RIAC0EbTayxMDubIXvb1" name="申請画面">
-        <mxGraphModel dx="2812" dy="1390" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFCC" math="0" shadow="0">
+        <mxGraphModel dx="2976" dy="1220" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFCC" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
